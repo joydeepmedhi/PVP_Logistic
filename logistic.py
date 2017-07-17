@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 
-"""
-Train a SVM to categorize 28x28 pixel images into digits (MNIST dataset).
-"""
 from __future__ import print_function
 
 import pandas as pd
