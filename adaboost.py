@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.cross_validation import train_test_split
-# from sklearn.datasets import make_hastie_10_2
 import matplotlib.pyplot as plt
 
 """ HELPER FUNCTION: GET ERROR RATE ========================================="""
